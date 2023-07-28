@@ -1,1 +1,6 @@
-hello fcking world 
+print('Im starving')
+lkkllllllll
+
+
+
+
